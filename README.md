@@ -12,7 +12,14 @@ Naukri.com is a Recruitment website related to job portals where you can search 
 
 ## Screenshots
 
-![App Screenshot](https://pranjaljain275.github.io/images/jobhunt-image.png)
+## HOME PAGE
+![image](https://user-images.githubusercontent.com/109551304/229812609-3d0ebe9b-02b8-47b6-af6b-35b6627932bf.png)
+
+## COMPANY PAGE
+![image](https://user-images.githubusercontent.com/109551304/229813052-c3a029fb-82ff-4fcf-a1da-bc2a9b29e810.png)
+
+## SERVICES PAGE
+![image](https://user-images.githubusercontent.com/109551304/229813214-0921ce34-dcb9-4151-9698-5911b8b08f66.png)
 
 ## Deployment
 
