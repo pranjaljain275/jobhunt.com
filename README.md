@@ -1,13 +1,21 @@
-jobhunt.com
-An Online Job portal to apply jobs in Dream companies.
-Tech Stack: HTML |CSS | Javascript | Mock API
 
-Features:
-1 - Jobs searches and Filter acoording to company, job type and location
-2 - Login/Signup/Logout
-3 - See detailed information of single company in next page
-4 - Profile Section to add resume and Little information about user
-5 - Service page to buy premium services for resume making and some interview preparation
-6 - Admin panel to add and remove companies and make any changes into it.
+# JobHunt.com (Naukri.com Clone)
 
-Deployed Link : https://jobhun.netlify.app/
+Chick-fil-A is a food delivery website where you can order food mostly based on chicken
+
+![Logo](https://project-jobhunt-naukri-js201-275.netlify.app/images/logo/jobHunt1.com.png)
+
+
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript
+
+## Screenshots
+
+![App Screenshot](https://pranjaljain275.github.io/images/jobhunt-image.png)
+
+## Deployment
+
+ - Frontend: https://project-jobhunt-naukri-js201-275.netlify.app/ 
+
+
