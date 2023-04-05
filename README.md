@@ -23,6 +23,6 @@ Naukri.com is a Recruitment website related to job portals where you can search 
 
 ## Deployment
 
- - Frontend: https://project-jobhunt-naukri-js201-275.netlify.app/ 
+ - Frontend: https://jobhunt-naukri-js201-275.netlify.app/ 
 
 
